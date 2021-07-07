@@ -7,8 +7,8 @@
 
   <ItemGroup>
     <None Remove="Controllers\" />
-    <None Remove="Microsoft.VisualStudio.Web.CodeGeneration.Design" />
     <None Remove="Models\" />
+    <None Remove="Microsoft.VisualStudio.Web.CodeGeneration.Design" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Controllers\" />
